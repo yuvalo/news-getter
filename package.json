@@ -1,0 +1,17 @@
+{
+  "name": "news-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuval",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.6",
+    "newsapi": "^2.4.1"
+  }
+}

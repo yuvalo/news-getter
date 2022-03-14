@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  stats:
+    image: bitnami/rabbitmq
+    ports:
+      - '15672:15672'
